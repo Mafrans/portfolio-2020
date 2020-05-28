@@ -22,7 +22,6 @@
 </template>
 
 <script>
-import { Component, Prop, Vue } from 'vue-property-decorator';
 import Button from "./Button.vue";
 
 export default {
