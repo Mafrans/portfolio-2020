@@ -1,0 +1,23 @@
+@use "./colors.scss";
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Poppins:wght@400;500&display=swap);
+
+h1, h2, h3, h4, h5 {
+    font-family: "Montserrat";
+    color: colors.$dark-gray;
+}
+
+p {
+    font-family: "Poppins";
+    color: colors.$dark-gray;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+}
+
+h1 {
+    font-size: 96px;
+}
+
+p {
+    font-size: 24px;
+}
