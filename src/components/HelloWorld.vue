@@ -49,6 +49,7 @@ export default {
     &.shape1 {
         top: 0;
         left: 0;
+        height: 90vh;
     }
 
     &.shape2 {
